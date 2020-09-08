@@ -1,0 +1,107 @@
+{"message":"GET /","level":"info"}
+{"message":"GET /favicon.ico","level":"info"}
+{"message":"GET /users/todos/1","level":"info"}
+{"message":"GET /users/todos/1","level":"info"}
+{"message":"GET /1/todos/1","level":"info"}
+{"message":"GET /users/1/todos/1","level":"info"}
+{"message":"GET /users/1/todos","level":"info"}
+{"message":"GET /users/1/todos","level":"info"}
+{"message":"GET /users/1/todos","level":"info"}
+{"message":"GET /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting list of todos for userId 1","level":"info"}
+{"message":"GET /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting list of todos for userId 1","level":"info"}
+{"message":"POST /users/1/todos/1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"GET /users/1/todos/1","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"cannot Find todoId 1 for usedId 1","level":"error"}
+{"message":"GET /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting list of todos for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"POST /users/todos","level":"info"}
+{"message":"POST /users/1/todos/1","level":"info"}
+{"message":"POST /users/1/todos","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"POST /users/2/todos","level":"info"}
+{"message":"Verifying if userId 2 exists","level":"info"}
+{"message":"Getting todoId for userId 2","level":"info"}
+{"message":"DELETE /users/1/todos","level":"info"}
+{"message":"DELETE /users/1/todos","level":"info"}
+{"message":"GET /users/1/todos/1","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"cannot Find todoId 1 for usedId 1","level":"error"}
+{"message":"GET /users/1/todos/1","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"cannot Find todoId 1 for usedId 1","level":"error"}
+{"message":"GET /users/1/todos/2","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"cannot Find todoId 2 for usedId 1","level":"error"}
+{"message":"GET /users/1/todos/2","level":"info"}
+{"message":"Verifying if userId 1 exists","level":"info"}
+{"message":"Getting todoId for userId 1","level":"info"}
+{"message":"cannot Find todoId 2 for usedId 1","level":"error"}
+{"message":"GET /users/2/todos","level":"info"}
+{"message":"Verifying if userId 2 exists","level":"info"}
+{"message":"Getting list of todos for userId 2","level":"info"}
+{"message":"DELETE /users/1/todos/1","level":"info"}
+{"message":"DELETE /users/1/todos/1","level":"info"}
+{"message":"POST /users/2/todos","level":"info"}
+{"message":"Verifying if userId 2 exists","level":"info"}
+{"message":"Getting todoId for userId 2","level":"info"}
+{"message":"POST /users/2/todos","level":"info"}
+{"message":"Verifying if userId 2 exists","level":"info"}
+{"message":"DELETE /users/2/todos/6","level":"info"}
+{"message":"Verifying if userId 2 exists","level":"info"}
+{"message":"DELETE /users/2/todos/6","level":"info"}
+{"message":"Verifying if userId 2 exists","level":"info"}

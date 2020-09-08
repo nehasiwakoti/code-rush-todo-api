@@ -1,0 +1,38 @@
+
+[
+    {
+      "id": 1,
+      "firstname": "hello",
+      "lastname": "world",
+      "phoneNumbers": [
+        {
+          
+          "number": 9843,
+          "type": "cell"
+        },
+        {
+          
+          "number": 9843,
+          "type": "home"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "firstname": "hi",
+      " lastname": "hello",
+      "phonenumbers": []
+    },
+    {
+      "id": 3,
+      "firstname": "neha",
+      "lastname": "alisha",
+      "phoneNumbers": []
+    },
+    {
+      "id": 4,
+      "firstname": "updated",
+      "lastname": "user",
+      "phoneNumbers": []
+    }
+  ]
